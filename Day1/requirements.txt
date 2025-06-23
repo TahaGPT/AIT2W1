@@ -1,0 +1,13 @@
+torch
+transformers
+sentence-transformers
+pi
+scikit-learn
+matplotlib
+seaborn
+googletrans==3.1.0a0
+huggingface_hub[hf_xet]
+sentence_transformers
+pandas 
+tqdm
+SentencePiece 
