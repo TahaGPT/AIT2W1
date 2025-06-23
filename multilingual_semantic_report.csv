@@ -1,0 +1,41 @@
+English,Language,Translated,EN_Tokens,TR_Tokens,Token_Diff,Cosine_Similarity
+A boy is flying a kite in the field.,Urdu,ایک لڑکا کھیت میں پتنگ اڑ رہا ہے۔,11,12,1,0.8472
+A boy is flying a kite in the field.,Arabic,صبي يطير طائرة ورقية في الميدان.,11,10,-1,0.8293
+A boy is flying a kite in the field.,Spanish,Un niño está volando una cometa en el campo.,11,12,1,0.8951
+A boy is flying a kite in the field.,Chinese,一个男孩在田野里驾驶风筝。,11,11,0,0.8398
+Two dogs are running across a snowy landscape.,Urdu,دو کتے برفیلی زمین کی تزئین کے اس پار چل رہے ہیں۔,11,17,6,0.9128
+Two dogs are running across a snowy landscape.,Arabic,يركض كلابان عبر منظر طبيعي ثلجي.,11,12,1,0.6771
+Two dogs are running across a snowy landscape.,Spanish,Dos perros corren a través de un paisaje nevado.,11,13,2,0.9444
+Two dogs are running across a snowy landscape.,Chinese,两只狗横穿着白雪皑皑的景观。,11,13,2,0.8582
+A woman is cooking food in a kitchen.,Urdu,ایک عورت باورچی خانے میں کھانا بنا رہی ہے۔,9,11,2,0.9327
+A woman is cooking food in a kitchen.,Arabic,امرأة تطبخ الطعام في المطبخ.,9,9,0,0.9266
+A woman is cooking food in a kitchen.,Spanish,Una mujer está cocinando comida en una cocina.,9,10,1,0.9408
+A woman is cooking food in a kitchen.,Chinese,一个女人在厨房里烹饪食物。,9,10,1,0.9321
+A group of people are sitting around a campfire at night.,Urdu,رات کے وقت لوگوں کا ایک گروپ کیمپ فائر کے آس پاس بیٹھا ہوا ہے۔,13,17,4,0.8615
+A group of people are sitting around a campfire at night.,Arabic,مجموعة من الناس يجلسون حول نار المخيم في الليل.,13,13,0,0.8992
+A group of people are sitting around a campfire at night.,Spanish,Un grupo de personas está sentada alrededor de una fogata por la noche.,13,16,3,0.8829
+A group of people are sitting around a campfire at night.,Chinese,一群人晚上坐在篝火旁。,13,9,-4,0.8253
+A man is riding a motorcycle on a highway.,Urdu,ایک شخص شاہراہ پر موٹرسائیکل پر سوار ہے۔,13,13,0,0.908
+A man is riding a motorcycle on a highway.,Arabic,رجل يركب دراجة نارية على طريق سريع.,13,12,-1,0.8829
+A man is riding a motorcycle on a highway.,Spanish,Un hombre está montando una motocicleta en una carretera.,13,11,-2,0.9053
+A man is riding a motorcycle on a highway.,Chinese,一个人在高速公路上骑摩托车。,13,10,-3,0.8603
+Children are playing soccer in the rain.,Urdu,بچے بارش میں فٹ بال کھیل رہے ہیں۔,9,8,-1,0.9076
+Children are playing soccer in the rain.,Arabic,الأطفال يلعبون كرة القدم في المطر.,9,10,1,0.9305
+Children are playing soccer in the rain.,Spanish,Los niños juegan fútbol bajo la lluvia.,9,10,1,0.8941
+Children are playing soccer in the rain.,Chinese,孩子们在雨中踢足球。,9,8,-1,0.9165
+A beautiful mountain landscape during sunset.,Urdu,غروب آفتاب کے دوران ایک خوبصورت پہاڑی منظر۔,8,11,3,0.9454
+A beautiful mountain landscape during sunset.,Arabic,مشهد جبلي جميل أثناء غروب الشمس.,8,9,1,0.9581
+A beautiful mountain landscape during sunset.,Spanish,Un hermoso paisaje de montaña durante el atardecer.,8,11,3,0.9532
+A beautiful mountain landscape during sunset.,Chinese,日落期间美丽的山景。,8,8,0,0.9277
+A bird is sitting on a branch in the forest.,Urdu,ایک پرندہ جنگل کی ایک شاخ پر بیٹھا ہے۔,14,12,-2,0.8975
+A bird is sitting on a branch in the forest.,Arabic,طائر يجلس على فرع في الغابة.,14,10,-4,0.8767
+A bird is sitting on a branch in the forest.,Spanish,Un pájaro está sentado en una rama en el bosque.,14,14,0,0.8979
+A bird is sitting on a branch in the forest.,Chinese,一只鸟坐在森林的树枝上。,14,10,-4,0.8711
+People are dancing at a wedding ceremony.,Urdu,لوگ شادی کی تقریب میں ناچ رہے ہیں۔,11,9,-2,0.874
+People are dancing at a wedding ceremony.,Arabic,الناس يرقصون في حفل زفاف.,11,10,-1,0.9196
+People are dancing at a wedding ceremony.,Spanish,La gente baila en una ceremonia de boda.,11,12,1,0.9261
+People are dancing at a wedding ceremony.,Chinese,人们在婚礼上跳舞。,11,7,-4,0.8629
+A train is moving through a tunnel in the mountains.,Urdu,ایک ٹرین پہاڑوں کی ایک سرنگ سے گزر رہی ہے۔,12,12,0,0.8938
+A train is moving through a tunnel in the mountains.,Arabic,القطار يتحرك من خلال نفق في الجبال.,12,12,0,0.9137
+A train is moving through a tunnel in the mountains.,Spanish,Un tren se mueve a través de un túnel en las montañas.,12,16,4,0.9372
+A train is moving through a tunnel in the mountains.,Chinese,火车正在山区的隧道中移动。,12,10,-2,0.8838
