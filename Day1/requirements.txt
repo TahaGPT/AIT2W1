@@ -11,3 +11,4 @@ sentence_transformers
 pandas 
 tqdm
 SentencePiece 
+pycocotools
