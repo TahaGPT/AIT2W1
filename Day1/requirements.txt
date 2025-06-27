@@ -12,3 +12,7 @@ pandas
 tqdm
 SentencePiece 
 pycocotools
+accelerate 
+scipy 
+safetensors
+diffusers
